@@ -34,3 +34,7 @@ CHAR -- Characterize identified neural populations using z-brain marker lines, e
 GABAergic, glutamatergic, serotonergic etc.
 @
 LAB_HELP -- Helping people at the lab with Python.
+@
+READ_LIT -- Reading research literature, neuroscience and algorithms books.
+@
+READ_CODE -- Reading code from other people's github repositories.
