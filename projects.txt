@@ -32,3 +32,5 @@ brains.
 @
 CHAR -- Characterize identified neural populations using z-brain marker lines, e.g. are the identified cells dopaminergic,
 GABAergic, glutamatergic, serotonergic etc.
+@
+LAB_HELP -- Helping people at the lab with Python.
