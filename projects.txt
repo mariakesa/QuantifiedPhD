@@ -1,0 +1,34 @@
+
+
+Project 1
+--------------
+
+Aim: Create a computational pipeline to identify, characterize, and compare neural activity in the whole brain of stimuli versus
+control fish.
+
+Code word is first.
+
+@
+REG -- There is a previous implementation of affine registration developed by Koester lab. Understand the algorithm. Employ it
+in a pipeline. Use it to register control and stimuli brains. Think about ways to evaluate and improve the algorithm.
+@
+MASK -- Develop a masking tool to define the to-be-segmented region, i.e. exclude eyes etc.
+@
+SEGM -- Understand the segmentation algorithm and code that was previously developed and employ it in a pipeline to segement control
+and stimuli brains.
+@
+MORPH -- Employ ANTS in a pipeline to register brains onto their corresponding reference and morph registered brains onto the
+elavl3:H2B-RFP reference from z-brain.
+@
+MORPH_EVAL -- Determine accuracy of morphing using point-based landmarks and cell masks as described in Marquart et al, 2017.
+GigaScience 6(8), 1-15.
+@
+VIZ -- Visualize dF/F values of cells/ROIs on every plane (21 in total) for individual control and stimuli brains on top of the
+recorded CGaMP activity as has been previously done in Ahrens et al. (2013). Nature Methods 10(5), 413-420. Visualize dF/F values of
+cells/ROIs for an average control and stimuli brain comprising n individual fish.
+@
+ML -- Apply machine learning techniques (unsupervised, supervised) to identify different response patterns in stimuli versus control
+brains.
+@
+CHAR -- Characterize identified neural populations using z-brain marker lines, e.g. are the identified cells dopaminergic,
+GABAergic, glutamatergic, serotonergic etc.
