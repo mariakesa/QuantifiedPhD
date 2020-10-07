@@ -1,0 +1,7 @@
+@
+ML
+How to pool neural activity from different fish?
+Measure covariances in population activity in the control and stimulus group.
+Calculate PCA for control and stimulus group and measure the dimensionality of neural responses.
+Patterns in the covariance matrix. Decomposition of the covariance matrix.
+@
