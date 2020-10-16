@@ -38,3 +38,5 @@ LAB_HELP -- Helping people at the lab with Python.
 READ_LIT -- Reading research literature, neuroscience and algorithms books.
 @
 READ_CODE -- Reading code from other people's github repositories.
+@
+WRITE_BLOG -- Composing material for a neural data science blog.
