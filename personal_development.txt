@@ -1,0 +1,10 @@
+www.learncompneuro.com
+
+@
+WEB_DEV -- learn web development to set up an educational website.
+@
+NEU_DYN_COUR -- assemble python notebooks for teaching neuronal dynamics.
+@
+NEU_DAT_AN_COUR -- assemble python notebooks for teaching neural data analysis and statistics.
+@
+INT_Q -- come up with interview questions.
