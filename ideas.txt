@@ -4,4 +4,22 @@ How to pool neural activity from different fish?
 Measure covariances in population activity in the control and stimulus group.
 Calculate PCA for control and stimulus group and measure the dimensionality of neural responses.
 Patterns in the covariance matrix. Decomposition of the covariance matrix.
+
+The activity is really low dimensional! Is this also the case for the Ahrens data?
+
+Dimensionalities that stimuli evoke
+
+There's one dominant dimension without the stimulus. How to characterize this dimension?
+
+Visualize the principal components overlayed.
+
+Plot the dominant dimensions.
+
+ATTRACTOR DYNAMICS
+
+Kay Hennig Brodersen's thesis
+
+Dictionaries
+
+Tensor Decomposition
 @

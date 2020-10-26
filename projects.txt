@@ -41,8 +41,10 @@ READ_CODE -- Reading code from other people's github repositories.
 @
 WRITE_BLOG -- Composing material for a neural data science blog.
 @
-MAN-- manual work with data: labeling for ML, segmenting fish etc.
+MAN -- manual work with data: labeling for ML, segmenting fish etc.
 @
-ONLINE_C-- learning through online courses.
+ONLINE_C -- learning through online courses.
 @
 CONF -- conferences.
+@
+TR -- training.
