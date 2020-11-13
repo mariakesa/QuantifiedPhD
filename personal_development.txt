@@ -10,3 +10,5 @@ NEU_DAT_AN_COUR -- assemble python notebooks for teaching neural data analysis a
 INT_Q -- come up with interview questions.
 @
 STRAT -- strategizing.
+@
+CA_IM_COUR 
