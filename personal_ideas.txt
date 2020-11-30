@@ -13,3 +13,27 @@ Living things are always in a process of change. They're always in a dynamic sta
 be dynamic.
 
 Want to contribute? Get in touch!
+
+@
+How neurons work? -- Neuronal Biophysics and Simulation:
+Spiking neural networks
+Hodgkin and Huxley neurons
+Population models, recurrent networks
+Plasticity models
+
+Measurement modalities:
+Multi-electrode arrays-- biophysics, spike sorting
+Calcium imaging
+EEG-- filtering
+fMRI
+
+Neural Statistics:
+
+Testing significance-- Bootstrap
+Linear regression (as well as regularization)-- estimation of receptive fields
+
+Machine learning:
+Deep Learning
+Reinforcement Learning
+Hidden Markov Models
+MVPA

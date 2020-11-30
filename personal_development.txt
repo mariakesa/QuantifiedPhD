@@ -11,4 +11,6 @@ INT_Q -- come up with interview questions.
 @
 STRAT -- strategizing.
 @
-CA_IM_COUR 
+CA_IM_COUR
+@
+SIMU_GUI -- conditional neural density estimator gui with Bruce. 

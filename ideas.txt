@@ -26,4 +26,7 @@ Tensor Decomposition
 NOTES
 Fish 9 looks really good
 Amphetamine fish 4 is very jumpy!-- At around 900!
+
+Ruben's lab-- bad frames excluded, we can't do that because we have spontaneous data. They used their
+data for regression (frames considered to be independent).
 @
