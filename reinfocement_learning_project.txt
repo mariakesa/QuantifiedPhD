@@ -1,0 +1,13 @@
+*
+Task codes
+*
+TRAINING -- training the DQN network.
+*
+NET_AN -- analyzing the neural network activations using comp neuro methods.
+*
+READ -- read literature, blog posts, books on RL and DQN.
+*
+LEC -- watch video lectures on RL.
+*
+@
+2021/01/05

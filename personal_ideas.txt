@@ -15,25 +15,26 @@ be dynamic.
 Want to contribute? Get in touch!
 
 @
-How neurons work? -- Neuronal Biophysics and Simulation:
+Course 1: How neurons work? -- Neuronal Biophysics and Simulation:
 Spiking neural networks
 Hodgkin and Huxley neurons
 Population models, recurrent networks
 Plasticity models
 
-Measurement modalities:
+Course 2: Measurement modalities:
 Multi-electrode arrays-- biophysics, spike sorting
 Calcium imaging
 EEG-- filtering
 fMRI
 
-Neural Statistics:
-
+Course 3: Neural Statistics:
+Neural Encoding and Decoding, Bayesian statistics
 Testing significance-- Bootstrap
 Linear regression (as well as regularization)-- estimation of receptive fields
+Dimensionality reduction (PCA)
 
-Machine learning:
+Course 4: Machine learning:
 Deep Learning
 Reinforcement Learning
 Hidden Markov Models
-MVPA
+Multi-Voxel Pattern Analysis (MVPA)

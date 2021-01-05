@@ -54,3 +54,10 @@ PRES -- prepare and give presentations.
 MICRS -- learning about optics.
 @
 TENSOR -- tensor decomposition.
+
+Phase 2
+
+@
+ZPIPE -- developing an unified pipeline for all the processing steps. 08/12/2020
+
+DATPROC -- processing data.
